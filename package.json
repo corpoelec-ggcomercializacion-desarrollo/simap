@@ -1,0 +1,25 @@
+{
+  "name": "sifes_mapa",
+  "version": "2.0.2",
+  "description": "Esta app dibuja mapas y analiza data desde postgresql, colorea los mapas en base a esos datos.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mapas",
+    "higmaps",
+    "highcharts",
+    "gnc",
+    "datamapa",
+    "dataclass",
+    "venezuela"
+  ],
+  "author": "Pedro Bello | Randi Mora | Yván Cipirán",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.17"
+  }
+}
